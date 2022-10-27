@@ -1,0 +1,1 @@
+![s3 storage classes](assets/../../assets/s3/s3-class.png)
