@@ -1,0 +1,1 @@
+![architected](assets/aws-well-architeted.png)
