@@ -1,0 +1,13 @@
+### Virtual Private Cloud
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-38-31.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-39-55.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-41-16.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-44-23.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-45-47.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-46-47.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-58-27.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2011-59-34.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2012-01-32.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2012-05-24.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2012-06-19.png)
+![vpc](/assets/vpc/Screenshot%20from%202022-11-08%2012-10-28.png)
